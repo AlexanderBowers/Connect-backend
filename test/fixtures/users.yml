@@ -3,7 +3,9 @@
 one:
   username: MyString
   platforms: MyString
+  password_digest: MyString
 
 two:
   username: MyString
   platforms: MyString
+  password_digest: MyString
